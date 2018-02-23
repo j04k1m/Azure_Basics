@@ -1,0 +1,13 @@
+c:\users\joakim\source\repos\DatabasLab4\DatabasLab4\bin\Debug\Microsoft.Azure.Documents.ServiceInterop.dll
+c:\users\joakim\source\repos\DatabasLab4\DatabasLab4\bin\Debug\DocumentDB.Spatial.Sql.dll
+c:\users\joakim\source\repos\DatabasLab4\DatabasLab4\bin\Debug\DatabasLab4.exe.config
+c:\users\joakim\source\repos\DatabasLab4\DatabasLab4\bin\Debug\DatabasLab4.exe
+c:\users\joakim\source\repos\DatabasLab4\DatabasLab4\bin\Debug\DatabasLab4.pdb
+c:\users\joakim\source\repos\DatabasLab4\DatabasLab4\bin\Debug\Microsoft.Azure.Documents.Client.dll
+c:\users\joakim\source\repos\DatabasLab4\DatabasLab4\bin\Debug\Newtonsoft.Json.dll
+c:\users\joakim\source\repos\DatabasLab4\DatabasLab4\bin\Debug\Microsoft.Azure.Documents.Client.xml
+c:\users\joakim\source\repos\DatabasLab4\DatabasLab4\bin\Debug\Newtonsoft.Json.xml
+c:\users\joakim\source\repos\DatabasLab4\DatabasLab4\obj\Debug\DatabasLab4.csprojResolveAssemblyReference.cache
+c:\users\joakim\source\repos\DatabasLab4\DatabasLab4\obj\Debug\DatabasLab4.csproj.CoreCompileInputs.cache
+c:\users\joakim\source\repos\DatabasLab4\DatabasLab4\obj\Debug\DatabasLab4.exe
+c:\users\joakim\source\repos\DatabasLab4\DatabasLab4\obj\Debug\DatabasLab4.pdb
